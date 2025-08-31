@@ -1,0 +1,39 @@
+# -------------------
+# Python Environment
+# -------------------
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------
+# Output & Logs
+# -------------------
+output/
+knowledge-base/*.csv
+*.log
+
+# -------------------
+# API Keys & Env Vars
+# -------------------
+.env
+
+# -------------------
+# IDE & Editor Settings
+# -------------------
+.vscode/
+*.code-workspace
+
+# -------------------
+# OS Generated Files
+# -------------------
+.DS_Store
+Thumbs.db
+
+# -------------------
+# Notebook Checkpoints
+# -------------------
+.ipynb_checkpoints/
