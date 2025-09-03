@@ -105,6 +105,21 @@ def process_pdf_multitheme(pdf_path, book_title, source_type="BOOK", start_page=
                         
                         if line.startswith("THEME||") and line.count('||') == 7:
                             _, theme, fact_group, sub_themes, foundation_point, interpretation_text, ai_summary, chart_refs_json = [p.strip() for p in line.split('||')]
+                            
+                            # --- NEW VALIDATION BLOCK STARTS HERE ---
+                            try:
+                                # This will raise a KeyError if the theme or fact_group is invalid
+                                valid_sub_themes = TAXONOMY[theme][fact_group]
+                                
+                                # This checks if the specific sub_theme exists in the list
+                                if sub_themes not in valid_sub_themes:
+                                     raise ValueError(f"Sub-theme '{sub_themes}' not found in Fact Group '{fact_group}'")
+                            
+                            except (KeyError, ValueError) as e:
+                                print(f"  - ⚠️ WARNING: Invalid classification path from AI: '{theme} -> {fact_group} -> {sub_themes}'. Skipping fact. Reason: {e}")
+                                continue # Skip to the next line in the AI output
+                            # --- NEW VALIDATION BLOCK ENDS HERE ---
+
                             all_thematic_interpretations.append({
                                 'theme': theme, 'fact_group': fact_group, 'sub_themes': sub_themes,
                                 'foundation_point': foundation_point, 'interpretation_text': interpretation_text,
@@ -143,8 +158,8 @@ if __name__ == '__main__':
     
     # --- SET PAGE RANGE HERE ---
     # To process the entire book, set both to None
-    START_PAGE = 1
-    END_PAGE = 1
+    START_PAGE = 11
+    END_PAGE = 11
 
     # To process just a single page (e.g., page 2)
     # START_PAGE = 2

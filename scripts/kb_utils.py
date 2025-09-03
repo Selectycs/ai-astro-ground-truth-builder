@@ -1,3 +1,4 @@
+
 import os
 import pandas as pd
 from datetime import datetime
@@ -163,6 +164,21 @@ TAXONOMY = {
         ],
         'Other': ['other_travel_spirituality_related']
     },
+    'karma_past_life': {
+    'Past Life Patterns': [
+        'past_life_professions', 'past_life_relationships', 'karmic_debts_lessons', 
+        'karmic_blessings', 'other_past_life_patterns'
+    ],
+    'Moksha & Liberation': [
+        'spiritual_progress', 'obstacles_to_moksha', 'soul_purpose_alignment', 
+        'other_moksha_factors'
+    ],
+    'Ancestral & Collective Karma': [
+        'ancestral_karmas', 'family_lineage_debts', 'collective_past_life_influence', 
+        'other_karmic_influences'
+    ],
+    'Other': ['other_karma_related']
+},
     'yogas': {
         'Strength & Success Yogas': ['raja_yogas', 'dhana_yogas', 'gajakesari_yoga', 'other_strength_success_yogas'],
         'Spiritual & Knowledge Yogas': ['saraswati_yoga', 'chandra_guru_yoga', 'moksha_yogas', 'other_spiritual_knowledge_yogas'],

@@ -1,0 +1,43 @@
+Fact_ID,Concept_Group,Concept_Name,Sanskrit_Name,Keywords,General_Description,Dignities_JSON,Karaka_JSON,Attributes_JSON,Source_Name,Source_Type,Source_Reference,Last_Updated
+db18f17fe5320076,planets,Sun,Surya,"soul, ego, vitality, confidence, charisma","Significator of the soul and ego; source of vitality, confidence, and charisma.",,,,Gemini AI,AI Chatbot,provided text,2025-08-31T10:04:12.241583
+4f1c63f9aba8ccb6,planets,Venus,Shukra,,,,"{'love': True, 'relationship': True}",,Gemini AI,AI,Page 6,2025-08-31T10:04:12.241583
+27ce2df06855179b,planets,Jupiter,Guru,,,,{'husband_in_female_chart': True},,Gemini AI,AI,Page 6,2025-08-31T10:04:12.241583
+27ce2df06855179b,planets,Jupiter,Guru,,,,"{'wealth': True, 'fortune': True}",,Gemini AI,AI,Page 9,2025-08-31T10:04:12.241583
+4f1c63f9aba8ccb6,planets,Venus,Shukra,,,,"{'material_comforts': True, 'luxuries': True}",,Gemini AI,AI,Page 9,2025-08-31T10:04:12.241583
+a0a6ca091c70a952,planets,Mars,Mangala,,,,"{'land': True, 'property': True}",,Gemini AI,AI,Page 9,2025-08-31T10:04:12.241583
+4f1c63f9aba8ccb6,planets,Venus,Shukra,,,,{'vehicles': True},,Gemini AI,AI,Page 9,2025-08-31T10:04:12.241583
+e6e970bbe8ff3a4c,planets,Saturn,Shani,,,,"{'construction': True, 'large_structures': True}",,Gemini AI,AI,Page 9,2025-08-31T10:04:12.241583
+6a7367ef7970d165,planets,Mercury,Budha,,,,"{'intellect': 'buddhi', 'analytical_skill': True}",,Gemini AI,AI,Page 11,2025-08-31T10:04:12.241583
+27ce2df06855179b,planets,Jupiter,Guru,,,,"{'knowledge': True, 'higher_learning': True}",,Gemini AI,AI,Page 11,2025-08-31T10:04:12.241583
+4f1c63f9aba8ccb6,planets,Venus,Shukra,,,,"{'fine_arts': True, 'aesthetics': True}",,Gemini AI,AI,Page 12,2025-08-31T10:04:12.241583
+6a7367ef7970d165,planets,Mercury,Budha,,,,"{'writing': True, 'crafts': True}",,Gemini AI,AI,Page 12,2025-08-31T10:04:12.241583
+5fc165254f4f817b,planets,Moon,Chandra,,,,{'emotional_expression': True},,Gemini AI,AI,Page 12,2025-08-31T10:04:12.241583
+d9a7629b615e1a2d,planets,Rahu,,,,,"{'innovation': True, 'invention': True}",,Gemini AI,AI,Page 12,2025-08-31T10:04:12.241583
+27ce2df06855179b,planets,Jupiter,Guru,"['wisdom', 'philosophy']",Karaka for wisdom and philosophy,,,,Gemini AI,AI,Page 13,2025-08-31T10:04:12.241583
+0fdc12f623305f03,planets,Ketu,Ketu,"['spiritual insight', 'intuition', 'mokshakaraka']",Significator for moksha (enlightenment),,,,Gemini AI,AI,Page 13,2025-08-31T10:04:12.241583
+e6e970bbe8ff3a4c,planets,Saturn,Shani,"['wisdom through experience', 'discipline', 'time']",Represents wisdom gained through experience,,,,Gemini AI,AI,Page 13,2025-08-31T10:04:12.241583
+4f1c63f9aba8ccb6,planets,Venus,Shukra,,,,"{'fine_arts': True, 'aesthetics': True}",,Gemini AI,AI,Page 15,2025-08-31T10:04:12.241583
+6a7367ef7970d165,planets,Mercury,Budha,,,,"{'writing': True, 'crafts': True}",,Gemini AI,AI,Page 15,2025-08-31T10:04:12.241583
+5fc165254f4f817b,planets,Moon,Chandra,,,,{'emotional_expression': True},,Gemini AI,AI,Page 15,2025-08-31T10:04:12.241583
+d9a7629b615e1a2d,planets,Rahu,,,,,{'innovation': True},,Gemini AI,AI,Page 15,2025-08-31T10:04:12.241583
+27ce2df06855179b,planets,Jupiter,Guru,,,,"{'wisdom': True, 'philosophy': True}",,Gemini AI,AI,Page 15,2025-08-31T10:04:12.241583
+0fdc12f623305f03,planets,Ketu,,,,,"{'spiritual_insight': True, 'intuition': True}",,Gemini AI,AI,Page 15,2025-08-31T10:04:12.241583
+e6e970bbe8ff3a4c,planets,Saturn,Shani,,,,{'wisdom_through_experience': True},,Gemini AI,AI,Page 15,2025-08-31T10:04:12.241583
+5fc165254f4f817b,planets,Moon,Chandra,"['mother', 'emotions', 'mind', 'nurturing']","Significator of the mother, emotions, and the mind.",,{'mother': True},,Gemini AI,AI Chatbot,Page 16,2024-07-28
+db18f17fe5320076,planets,Sun,Surya,"['father', 'vitality', 'authority', 'soul']","Significator of the father, vitality, and the soul.",,{'father': True},,Gemini AI,AI Chatbot,Page 16,2024-07-28
+27ce2df06855179b,planets,Jupiter,,"['wisdom', 'knowledge', 'philosophy', 'expansion']","Significator of wisdom, knowledge, and expansion.",,,,Gemini AI,AI Chatbot,Page 16,2024-07-28
+e6e970bbe8ff3a4c,planets,Saturn,,"['discipline', 'experience', 'wisdom', 'time']","Significator of discipline, experience, and hard-earned wisdom.",,,,Gemini AI,AI Chatbot,Page 16,2024-07-28
+0fdc12f623305f03,planets,Ketu,,"['moksha', 'enlightenment', 'intuition', 'detachment']","Significator of moksha (enlightenment), intuition, and detachment.",,,,Gemini AI,AI Chatbot,Page 16,2024-07-28
+27ce2df06855179b,planets,Jupiter,Guru,,,,{'children': 'true'},,Gemini AI,AI,Page 17,2025-08-31T10:04:12.241583
+a0a6ca091c70a952,planets,Mars,Mangala,,,,"{'siblings': 'Bhratru Karaka', 'property': 'Bhoomi Karaka'}",,Gemini AI,AI,Page 18,2025-08-31T10:04:12.241583
+e6e970bbe8ff3a4c,planets,Saturn,Shani,,,,"{'construction': '', 'long_term_assets': ''}",,Gemini AI,AI,Page 18,2025-08-31T10:04:12.241583
+4f1c63f9aba8ccb6,planets,Venus,Shukra,,,,{'vehicles': 'primary'},,Gemini AI,AI Chatbot,Page 19,2025-08-31T10:04:12.241583
+5fc165254f4f817b,planets,Moon,Chandra,"['emotional atmosphere', 'maternal care', 'home']",Represents the emotional atmosphere of the home and maternal care.,,,,Gemini AI,AI,Page 20,2025-08-31T10:04:12.241583
+db18f17fe5320076,planets,Sun,Surya,"vitality, constitution",The source of vitality; its strength is crucial for strong immunity.,,,,Gemini AI,AI,Page 21,2025-08-31T10:04:12.241583
+a0a6ca091c70a952,planets,Mars,Mangala,"injuries, accidents",,,,,Gemini AI,AI,Page 21,2025-08-31T10:04:12.241583
+5fc165254f4f817b,planets,Moon,Chandra,mind,Significator of the mind (Manas).,,,,Gemini AI,AI,Page 21,2025-08-31T10:04:12.241583
+e6e970bbe8ff3a4c,planets,Saturn,Shani,,,,{'longevity': True},,Gemini AI,AI,Page 22,2025-08-31T10:04:12.241583
+0fdc12f623305f03,planets,Ketu,,,,,{'moksha': 'true'},,Gemini AI,AI,Page 25,2025-08-31T10:04:12.241583
+0fdc12f623305f03,planets,Ketu,,"['spiritual liberation', 'moksha karaka']",,,,,Gemini AI,AI,Page 25,2025-08-31T10:48:08.122136
+6a7367ef7970d165,planets,Mercury,Budha,,,,"{'intellect': True, 'analytical_skill': True}",,Gemini AI,AI,Page 11,2025-08-31T11:02:18.529942
+27ce2df06855179b,planets,Jupiter,Guru,,,,"{'knowledge': True, 'higher_learning': True}",,Gemini AI,AI,Page 11,2025-08-31T11:02:18.529942
