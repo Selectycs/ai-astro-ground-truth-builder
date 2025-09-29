@@ -1,0 +1,1090 @@
+
+{
+  "placement": [
+    {
+      "raw_text": "This section details the results of a house lord being placed in various other houses.",
+      "source_page": 1
+    },
+    {
+      "raw_text": "The placement of the 1st lord (the Ascendant lord) shows where the native's focus, personality, and life path are directed.",
+      "source_page": 1
+    },
+    {
+      "raw_text": "Lord of 1 in House 1",
+      "source_page": 1
+    },
+    {
+      "raw_text": "Lord of 1 in House 2",
+      "source_page": 1
+    },
+    {
+      "raw_text": "Lord of 1 in House 3",
+      "source_page": 1
+    },
+    {
+      "raw_text": "Lord of 1 in House 4",
+      "source_page": 1
+    },
+    {
+      "raw_text": "Lord of 1 in House 5",
+      "source_page": 2
+    },
+    {
+      "raw_text": "Lord of 1 in House 6",
+      "source_page": 2
+    },
+    {
+      "raw_text": "Lord of 1 in House 7",
+      "source_page": 2
+    },
+    {
+      "raw_text": "Lord of 1 in House 8",
+      "source_page": 2
+    },
+    {
+      "raw_text": "Lord of 1 in House 9",
+      "source_page": 2
+    },
+    {
+      "raw_text": "Lord of 1 in House 10",
+      "source_page": 2
+    },
+    {
+      "raw_text": "Lord of 1 in House 11",
+      "source_page": 3
+    },
+    {
+      "raw_text": "Lord of 1 in House 12",
+      "source_page": 3
+    },
+    {
+      "raw_text": "The placement of the 2nd lord shows where the native's resources, family values, and speech are utilized.",
+      "source_page": 3
+    },
+    {
+      "raw_text": "Lord of 2 in House 1",
+      "source_page": 3
+    },
+    {
+      "raw_text": "Lord of 2 in House 2",
+      "source_page": 3
+    },
+    {
+      "raw_text": "Lord of 2 in House 3",
+      "source_page": 3
+    },
+    {
+      "raw_text": "Lord of 2 in House 4",
+      "source_page": 4
+    },
+    {
+      "raw_text": "Lord of 2 in House 5",
+      "source_page": 4
+    },
+    {
+      "raw_text": "Lord of 2 in House 6",
+      "source_page": 4
+    },
+    {
+      "raw_text": "Lord of 2 in House 7",
+      "source_page": 4
+    },
+    {
+      "raw_text": "Lord of 2 in House 8",
+      "source_page": 4
+    },
+    {
+      "raw_text": "This section details the results of a planet being placed in a specific house, sign, or nakshatra.",
+      "source_page": 4
+    },
+    {
+      "raw_text": "SUN in Houses",
+      "source_page": 4
+    },
+    {
+      "raw_text": "SUN in 1",
+      "source_page": 4
+    },
+    {
+      "raw_text": "SUN in 2",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in 3",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in 4",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in 5",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in 6",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in 7",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in 8",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in 9",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in 11",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in 12",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in Signs",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in Aries",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in Taurus",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in Gemini",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in Cancer",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in Leo",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in Virgo",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in Libra",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in Scorpio",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in Sagittarius",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in Capricorn",
+      "source_page": 5
+    },
+    {
+      "raw_text": "SUN in Aquarius",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Pisces",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Nakshatras",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Ashwini",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Bharani",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Krittika",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Rohini",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Mrigashira",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Ardra",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Punarvasu",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Pushya",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Ashlesha",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Magha",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Purva Phalguni",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Uttara Phalguni",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Hasta",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Chitra",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Swati",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Vishakha",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Anuradha",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Jyeshtha",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Mula",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Purva Ashadha",
+      "source_page": 6
+    },
+    {
+      "raw_text": "SUN in Uttara Ashadha",
+      "source_page": 7
+    },
+    {
+      "raw_text": "SUN in Shravana",
+      "source_page": 7
+    },
+    {
+      "raw_text": "SUN in Dhanishtha",
+      "source_page": 7
+    },
+    {
+      "raw_text": "SUN in Shatabhisha",
+      "source_page": 7
+    },
+    {
+      "raw_text": "SUN in Purva Bhadrapada",
+      "source_page": 7
+    },
+    {
+      "raw_text": "SUN in Uttara Bhadrapada",
+      "source_page": 7
+    },
+    {
+      "raw_text": "SUN in Revati",
+      "source_page": 7
+    },
+    {
+      "raw_text": "MOON in Houses",
+      "source_page": 7
+    },
+    {
+      "raw_text": "MOON in 1",
+      "source_page": 7
+    },
+    {
+      "raw_text": "MOON in 2",
+      "source_page": 7
+    },
+    {
+      "raw_text": "MOON in 3",
+      "source_page": 7
+    },
+    {
+      "raw_text": "MOON in 5",
+      "source_page": 7
+    },
+    {
+      "raw_text": "MOON in 6",
+      "source_page": 7
+    },
+    {
+      "raw_text": "MOON in 7",
+      "source_page": 7
+    },
+    {
+      "raw_text": "MOON in 8",
+      "source_page": 7
+    },
+    {
+      "raw_text": "MOON in 9",
+      "source_page": 7
+    },
+    {
+      "raw_text": "MOON in 10",
+      "source_page": 7
+    },
+    {
+      "raw_text": "MOON in 11",
+      "source_page": 7
+    },
+    {
+      "raw_text": "MOON in 12",
+      "source_page": 7
+    },
+    {
+      "raw_text": "MOON in Signs",
+      "source_page": 7
+    },
+    {
+      "raw_text": "MOON in Aries",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Taurus",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Gemini",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Cancer",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Leo",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Virgo",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Libra",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Scorpio",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Sagittarius",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Capricorn",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Aquarius",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Pisces",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Nakshatras",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Ashwini",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Bharani",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Krittika",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Rohini",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Mrigashira",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Ardra",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Punarvasu",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Pushya",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Ashlesha",
+      "source_page": 8
+    },
+    {
+      "raw_text": "MOON in Magha",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Purva Phalguni",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Uttara Phalguni",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Hasta",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Chitra",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Swati",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Vishakha",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Anuradha",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Jyeshtha",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Mula",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Purva Ashadha",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Uttara Ashadha",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Shravana",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Dhanishtha",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Shatabhisha",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Purva Bhadrapada",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Uttara Bhadrapada",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MOON in Revati",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MARS in Houses",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MARS in 3",
+      "source_page": 9
+    },
+    {
+      "raw_text": "MARS in 5",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in 6",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in 9",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in 10",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in 11",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Signs",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Aries",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Taurus",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Gemini",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Cancer",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Leo",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Virgo",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Libra",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Scorpio",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Sagittarius",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Capricorn",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Aquarius",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Pisces",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Nakshatras",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Ashwini",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Bharani",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Krittika",
+      "source_page": 10
+    },
+    {
+      "raw_text": "MARS in Rohini",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Mrigashira",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Ardra",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Punarvasu",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Pushya",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Ashlesha",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Magha",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Purva Phalguni",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Uttara Phalguni",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Hasta",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Chitra",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Swati",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Vishakha",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Anuradha",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Jyeshtha",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Mula",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Purva Ashadha",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Uttara Ashadha",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Shravana",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Dhanishtha",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Shatabhisha",
+      "source_page": 11
+    },
+    {
+      "raw_text": "MARS in Purva Bhadrapada",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MARS in Uttara Bhadrapada",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MARS in Revati",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in Houses",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in 1",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in 2",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in 3",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in 4",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in 5",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in 6",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in 7",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in 8",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in 9",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in 10",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in 11",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in 12",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in Signs",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in Aries",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in Taurus",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in Gemini",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in Cancer",
+      "source_page": 12
+    },
+    {
+      "raw_text": "MERCURY in Leo",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Virgo",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Libra",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Scorpio",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Sagittarius",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Capricorn",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Aquarius",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Pisces",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Nakshatras",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Ashwini",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Bharani",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Krittika",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Rohini",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Mrigashira",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Ardra",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Punarvasu",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Pushya",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Ashlesha",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Magha",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Purva Phalguni",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Uttara Phalguni",
+      "source_page": 13
+    },
+    {
+      "raw_text": "MERCURY in Hasta",
+      "source_page": 14
+    },
+    {
+      "raw_text": "MERCURY in Chitra",
+      "source_page": 14
+    },
+    {
+      "raw_text": "MERCURY in Swati",
+      "source_page": 14
+    },
+    {
+      "raw_text": "MERCURY in Vishakha",
+      "source_page": 14
+    },
+    {
+      "raw_text": "MERCURY in Anuradha",
+      "source_page": 14
+    },
+    {
+      "raw_text": "MERCURY in Jyeshtha",
+      "source_page": 14
+    },
+    {
+      "raw_text": "MERCURY in Mula",
+      "source_page": 14
+    },
+    {
+      "raw_text": "MERCURY in Purva Ashadha",
+      "source_page": 14
+    },
+    {
+      "raw_text": "MERCURY in Uttara Ashadha",
+      "source_page": 14
+    },
+    {
+      "raw_text": "MERCURY in Shravana",
+      "source_page": 14
+    },
+    {
+      "raw_text": "MERCURY in Dhanishtha",
+      "source_page": 14
+    },
+    {
+      "raw_text": "MERCURY in Shatabhisha",
+      "source_page": 14
+    },
+    {
+      "raw_text": "MERCURY in Purva Bhadrapada",
+      "source_page": 14
+    },
+    {
+      "raw_text": "MERCURY in Uttara Bhadrapada",
+      "source_page": 14
+    },
+    {
+      "raw_text": "MERCURY in Revati",
+      "source_page": 14
+    },
+    {
+      "raw_text": "JUPITER in Houses",
+      "source_page": 14
+    },
+    {
+      "raw_text": "JUPITER in 1",
+      "source_page": 14
+    },
+    {
+      "raw_text": "JUPITER in 3",
+      "source_page": 14
+    },
+    {
+      "raw_text": "JUPITER in 5",
+      "source_page": 14
+    },
+    {
+      "raw_text": "JUPITER in 6",
+      "source_page": 14
+    },
+    {
+      "raw_text": "JUPITER in 8",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in 10",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in 11",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Signs",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Aries",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Taurus",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Gemini",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Cancer",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Leo",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Virgo",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Libra",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Scorpio",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Sagittarius",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Capricorn",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Aquarius",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Pisces",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Nakshatras",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Ashwini",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Bharani",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Krittika",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Rohini",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Mrigashira",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Ardra",
+      "source_page": 15
+    },
+    {
+      "raw_text": "JUPITER in Punarvasu",
+      "source_page": 16
+    },
+    {
+      "raw_text": "JUPITER in Pushya",
+      "source_page": 16
+    },
+    {
+      "raw_text": "JUPITER in Ashlesha",
+      "source_page": 16
+    },
+    {
+      "raw_text": "JUPITER in Magha",
+      "source_page": 16
+    },
+    {
+      "raw_text": "JUPITER in Purva Phalguni",
+      "source_page": 16
+    },
+    {
+      "raw_text": "JUPITER in Uttara Phalguni",
+      "source_page": 16
+    },
+    {
+      "raw_text": "JUPITER in Hasta",
+      "source_page": 16
+    },
+    {
+      "raw_text": "JUPITER in Chitra",
+      "source_page": 16
+    },
+    {
+      "raw_text": "JUPITER in Swati",
+      "source_page": 16
+    },
+    {
+      "raw_text": "JUPITER in Vishakha",
+      "source_page": 16
+    },
+    {
+      "raw_text": "JUPITER in Anuradha",
+      "source_page": 16
+    },
+    {
+      "raw_text": "JUPITER in Jyeshtha",
+      "source_page": 16
