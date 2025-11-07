@@ -420,6 +420,7 @@ CANONICAL_SCHEMAS = {
             "source_planet": "string",
             "target_house": "integer",
             "relative_aspect_number": "integer",
+            "aspect_type": "string", 
             "planet_nature": "string",
             "source_sign": "string",
             "target_sign": "string",
@@ -437,6 +438,7 @@ CANONICAL_SCHEMAS = {
         "attributes": {
             "type": "string",
             "name": "string",
+            "category": "string",
             "components": "list[string]"   # e.g., ["Moon", "Jupiter", "4th house"]
         }
     },
@@ -444,6 +446,7 @@ CANONICAL_SCHEMAS = {
         "attributes": {
             "type": "string",
             "name": "string",
+            "category": "string",
             "components": "list[string]"   # e.g., ["Mars", "7th house"]
         }
     },
@@ -459,7 +462,9 @@ CANONICAL_SCHEMAS = {
         "attributes": {
             "type": "string",
             "point_name": "string",
-            "sign": "string"
+            "sign": "string",
+            "house": "integer",
+            "degree": "float"
         }
     },
     "varga": {
@@ -476,7 +481,8 @@ CANONICAL_SCHEMAS = {
         "attributes": {
             "type": "string",
             "planet_name": "string",
-            "value_rupas": "float"
+            "total_strength_rupas": "float",
+            "breakdown": "object"
         }
     },
     "vimsopaka": {
@@ -501,6 +507,7 @@ CANONICAL_SCHEMAS = {
         "attributes": {
             "type": "string",
             "planet_name": "string",
+            "avastha_type": "string",
             "state": "string"
         }
     },
@@ -535,7 +542,9 @@ CANONICAL_SCHEMAS = {
         "attributes": {
             "type": "string",
             "planet_name": "string",
-            "nakshatra": "string"
+            "nakshatra": "string",
+            "pada": "integer",
+            "nakshatra_lord": "string"
         }
     },
     "house_group_definition": {
